@@ -5,8 +5,9 @@
  핀볼게임만들기
 
 ---유니티 단축키---
+ 
+Shift + Space : 화면 크게 함 
 
-Shift + Space : 화면 크게 함
 Ctrl + P : 플레이 시작 (원본)
 
 Edit - shortcuts : 단축기 변경
